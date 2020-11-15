@@ -1,0 +1,12 @@
+*{
+  text-align: center;
+}
+html, body {
+  margin: 0;
+  padding: 15px;
+  background:crimson;
+}
+canvas{
+  border: 20px double rgb(218, 217, 217);
+  box-shadow: 0 0 10px white,0 0 15px whitesmoke,0 0 20px silver;
+}
